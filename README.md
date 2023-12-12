@@ -8,7 +8,6 @@ Welcome to my portfolio! This is a simple showcase of my journey in the tech wor
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Roadmap](#roadmap)
 - [License](#license)
@@ -28,13 +27,13 @@ This portfolio serves as a visual representation of my progress in the tech fiel
 - HTML
 - CSS
 
-Usage
+## Usage
 Feel free to explore the different sections of the portfolio to get to know me better. You can navigate through the menu to learn about my skills, check out the projects I've worked on, and understand my goals.
 
-Roadmap
+## Roadmap
 As I progress through my course, I plan to continuously update and improve this portfolio. Future enhancements may include adding more projects, incorporating interactive elements, and refining the design.
 
-License
+## License
 This project is licensed under the MIT License.
 
 
